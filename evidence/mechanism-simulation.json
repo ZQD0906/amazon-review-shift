@@ -1,0 +1,355 @@
+{
+  "experiment_kind": "synthetic_known_truth_prototype_validation",
+  "configuration": {
+    "repetitions_per_scenario": 2000,
+    "seed": 20261027,
+    "numpy_version": "2.5.4",
+    "generator": "numpy.random.default_rng (PCG64)",
+    "error_units": "star-score units; low-rate widths are probability units"
+  },
+  "mixture_scenarios": {
+    "composition_only": {
+      "n_ref_by_child": [
+        480,
+        120
+      ],
+      "n_current_by_child": [
+        120,
+        480
+      ],
+      "true_probability_ref": [
+        [
+          0.02,
+          0.03,
+          0.05,
+          0.2,
+          0.7
+        ],
+        [
+          0.25,
+          0.2,
+          0.2,
+          0.2,
+          0.15
+        ]
+      ],
+      "true_probability_current": [
+        [
+          0.02,
+          0.03,
+          0.05,
+          0.2,
+          0.7
+        ],
+        [
+          0.25,
+          0.2,
+          0.2,
+          0.2,
+          0.15
+        ]
+      ],
+      "true_components": {
+        "within": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "composition": [
+          0.138,
+          0.10200000000000002,
+          0.09000000000000002,
+          0.0,
+          -0.33
+        ],
+        "turnover": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "true_mean_components": {
+        "within": 0.0,
+        "composition": -1.038,
+        "turnover": 0.0
+      },
+      "mean_score_component_error_quantiles": {
+        "within": {
+          "p05": -0.13963541666666673,
+          "p50": -0.0010416666666666421,
+          "p95": 0.13229166666666667
+        },
+        "composition": {
+          "p05": -0.08137500000000007,
+          "p50": 0.001124999999999883,
+          "p95": 0.08237499999999967
+        },
+        "turnover": {
+          "p05": 0.0,
+          "p50": 0.0,
+          "p95": 0.0
+        }
+      },
+      "mean_score_component_rmse": {
+        "within": 0.08270218674683477,
+        "composition": 0.049670057473039035,
+        "turnover": 0.0
+      },
+      "maximum_identity_error": 2.220446049250313e-16,
+      "note": "Reference centering q is re-estimated in each independently generated dataset; bootstrap within one dataset freezes q."
+    },
+    "within_only": {
+      "n_ref_by_child": [
+        360,
+        240
+      ],
+      "n_current_by_child": [
+        360,
+        240
+      ],
+      "true_probability_ref": [
+        [
+          0.02,
+          0.03,
+          0.05,
+          0.2,
+          0.7
+        ],
+        [
+          0.25,
+          0.2,
+          0.2,
+          0.2,
+          0.15
+        ]
+      ],
+      "true_probability_current": [
+        [
+          0.12,
+          0.1,
+          0.15,
+          0.23,
+          0.4
+        ],
+        [
+          0.35,
+          0.2,
+          0.2,
+          0.15,
+          0.1
+        ]
+      ],
+      "true_components": {
+        "within": [
+          0.09999999999999998,
+          0.042,
+          0.05999999999999999,
+          -0.002000000000000026,
+          -0.19999999999999996
+        ],
+        "composition": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "turnover": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "true_mean_components": {
+        "within": -0.6439999999999999,
+        "composition": 0.0,
+        "turnover": 0.0
+      },
+      "mean_score_component_error_quantiles": {
+        "within": {
+          "p05": -0.11599999999999998,
+          "p50": 0.0006666666666665794,
+          "p95": 0.11733333333333332
+        },
+        "composition": {
+          "p05": 0.0,
+          "p50": 0.0,
+          "p95": 0.0
+        },
+        "turnover": {
+          "p05": 0.0,
+          "p50": 0.0,
+          "p95": 0.0
+        }
+      },
+      "mean_score_component_rmse": {
+        "within": 0.07047470389358787,
+        "composition": 0.0,
+        "turnover": 0.0
+      },
+      "maximum_identity_error": 1.1102230246251565e-16,
+      "note": "Reference centering q is re-estimated in each independently generated dataset; bootstrap within one dataset freezes q."
+    },
+    "observed_entry_exit": {
+      "n_ref_by_child": [
+        360,
+        240,
+        0
+      ],
+      "n_current_by_child": [
+        360,
+        0,
+        240
+      ],
+      "true_probability_ref": [
+        [
+          0.02,
+          0.03,
+          0.05,
+          0.2,
+          0.7
+        ],
+        [
+          0.02,
+          0.03,
+          0.05,
+          0.2,
+          0.7
+        ],
+        [
+          0.25,
+          0.2,
+          0.2,
+          0.2,
+          0.15
+        ]
+      ],
+      "true_probability_current": [
+        [
+          0.02,
+          0.03,
+          0.05,
+          0.2,
+          0.7
+        ],
+        [
+          0.02,
+          0.03,
+          0.05,
+          0.2,
+          0.7
+        ],
+        [
+          0.25,
+          0.2,
+          0.2,
+          0.2,
+          0.15
+        ]
+      ],
+      "true_components": {
+        "within": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "composition": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "turnover": [
+          0.092,
+          0.068,
+          0.06,
+          0.0,
+          -0.22000000000000003
+        ]
+      },
+      "true_mean_components": {
+        "within": 0.0,
+        "composition": 0.0,
+        "turnover": -0.6920000000000001
+      },
+      "mean_score_component_error_quantiles": {
+        "within": {
+          "p05": -0.06333333333333328,
+          "p50": -6.938893903907228e-17,
+          "p95": 0.0616666666666668
+        },
+        "composition": {
+          "p05": 0.0,
+          "p50": 0.0,
+          "p95": 0.0
+        },
+        "turnover": {
+          "p05": -0.06966666666666671,
+          "p50": 0.0003333333333333695,
+          "p95": 0.07200000000000001
+        }
+      },
+      "mean_score_component_rmse": {
+        "within": 0.03925316689276307,
+        "composition": 0.0,
+        "turnover": 0.043019204367868595
+      },
+      "maximum_identity_error": 1.3877787807814457e-16,
+      "note": "Reference centering q is re-estimated in each independently generated dataset; bootstrap within one dataset freezes q."
+    }
+  },
+  "dependence_scenario": {
+    "generator": "12 independent weeks per period; 40 reviews per week; latent week probability Beta(2,8); conditional Binomial counts",
+    "true_low_rating_probability": 0.2,
+    "true_period_difference": 0.0,
+    "within_week_intraclass_correlation": 0.09090909090909091,
+    "bootstrap_reps_per_dataset": 199,
+    "block_weeks": 2,
+    "naive_review_iid_wald": {
+      "covered": 1278,
+      "datasets": 2000,
+      "coverage": 0.639,
+      "monte_carlo_standard_error": 0.01073962289840756,
+      "width_quantiles": {
+        "p05": 0.09231705381957295,
+        "p50": 0.10084779282622568,
+        "p95": 0.1090920153648713
+      }
+    },
+    "conditional_week_block": {
+      "covered": 1780,
+      "available_datasets": 2000,
+      "total_datasets": 2000,
+      "coverage": 0.89,
+      "monte_carlo_standard_error": 0.006996427659884721,
+      "width_quantiles": {
+        "p05": 0.12541145833333323,
+        "p50": 0.18374999999999994,
+        "p95": 0.25710937499999986
+      }
+    },
+    "observed_difference_quantiles": {
+      "p05": -0.09375,
+      "p50": -0.002083333333333326,
+      "p95": 0.08749999999999997
+    },
+    "note": "Simulation coverage is against the repeated-experiment mean difference, not the exact finite-corpus accounting. These weeks have no serial dependence; this does not validate arbitrary weekly/seasonal correlation or user-selection bias."
+  },
+  "limitations": [
+    "The original corpus has user-centric selection and incomplete item histories absent from these mechanisms.",
+    "Exact accounting reconstruction is an algebraic property, not evidence of valid population uncertainty or correct product-quality diagnoses.",
+    "Known-truth scenarios are deliberately small with fixed child counts; real sparse shared children can invalidate resampling draws.",
+    "Twelve weeks remain a small number of independent units. More reviews or bootstrap draws cannot create additional independent weeks.",
+    "No selected-case coverage, simultaneous guarantee, FDR control, causal effect, product improvement, or scaling performance is established.",
+    "Component centering is a defined accounting convention; it is not an identified causal attribution."
+  ]
+}
