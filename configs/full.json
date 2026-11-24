@@ -1,0 +1,38 @@
+{
+  "label": "FULL_PUBLISHED_CORPUS_DESIGN",
+  "manifest": "data/manifest.json",
+  "categories": null,
+  "raw_dir": "data/raw",
+  "processed_dir": "data/full",
+  "output_dir": "results/full",
+  "ingestion": {
+    "buckets": 256,
+    "batch_size": 100000,
+    "memory_limit": "48GB",
+    "threads": 16
+  },
+  "windows": {
+    "reference_start": "2021-10-11",
+    "current_start": "2022-01-03",
+    "current_end": "2022-03-28",
+    "future_end": "2022-04-25"
+  },
+  "analysis": {
+    "min_n": 30,
+    "min_weeks": 4,
+    "min_common_coverage": 0.5,
+    "bootstrap_reps": 300,
+    "block_weeks": 2,
+    "seed": 42
+  },
+  "forecast": {
+    "prior_alpha": 0.5,
+    "child_strength": 5
+  },
+  "sample_seed": 42,
+  "backtest_starts": [
+    "2022-01-03",
+    "2022-04-25",
+    "2022-07-18"
+  ]
+}
