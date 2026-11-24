@@ -1,0 +1,727 @@
+{
+  "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e",
+  "repository": "McAuley-Lab/Amazon-Reviews-2023",
+  "verification": "publisher_file_metadata_not_full_row_scan",
+  "review_entries": [
+    {
+      "category": "All_Beauty",
+      "kind": "review",
+      "filename": "All_Beauty.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/All_Beauty.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/All_Beauty.jsonl",
+      "expected_bytes": 326611506,
+      "expected_sha256": "36ca7c48440a8247b2dca0174d095238422b506a8a80c114dca722b7715f1c94",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Amazon_Fashion",
+      "kind": "review",
+      "filename": "Amazon_Fashion.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Amazon_Fashion.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Amazon_Fashion.jsonl",
+      "expected_bytes": 1051324731,
+      "expected_sha256": "e597b3ce6cbb2f9994a32e0eee6bb04fdae50725f2d49c89f6baef1a7b986c57",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Appliances",
+      "kind": "review",
+      "filename": "Appliances.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Appliances.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Appliances.jsonl",
+      "expected_bytes": 929451412,
+      "expected_sha256": "d9dd03aa9be0c8e6fea66d8ce99a7e5b359e272d6323186c1aa80f6d36af1dab",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Arts_Crafts_and_Sewing",
+      "kind": "review",
+      "filename": "Arts_Crafts_and_Sewing.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Arts_Crafts_and_Sewing.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Arts_Crafts_and_Sewing.jsonl",
+      "expected_bytes": 3945063799,
+      "expected_sha256": "e2f6698cdb0c1f712e38718e02efc1b74641c31bf6745be14af85583399e74df",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Automotive",
+      "kind": "review",
+      "filename": "Automotive.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Automotive.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Automotive.jsonl",
+      "expected_bytes": 8727689027,
+      "expected_sha256": "5ca28ebd15a7e26f8bb3289d65e26784b39c9661d1f5dc030ecc9fef0211eced",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Baby_Products",
+      "kind": "review",
+      "filename": "Baby_Products.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Baby_Products.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Baby_Products.jsonl",
+      "expected_bytes": 2947785967,
+      "expected_sha256": "5ab12d566ebc1162d5a197721d4da787261e036455d054ad8d858af7380e0a45",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Beauty_and_Personal_Care",
+      "kind": "review",
+      "filename": "Beauty_and_Personal_Care.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Beauty_and_Personal_Care.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Beauty_and_Personal_Care.jsonl",
+      "expected_bytes": 11021458876,
+      "expected_sha256": "24f139d51014f50c052b69bdf5ca95e2e2656e80aabda2da3fdad29bb1931a53",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Books",
+      "kind": "review",
+      "filename": "Books.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Books.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Books.jsonl",
+      "expected_bytes": 20121186727,
+      "expected_sha256": "14f524701f3e6e850d938e09961675c397078eb7af06a99892af8fab811d5a0d",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "CDs_and_Vinyl",
+      "kind": "review",
+      "filename": "CDs_and_Vinyl.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/CDs_and_Vinyl.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/CDs_and_Vinyl.jsonl",
+      "expected_bytes": 3287195043,
+      "expected_sha256": "4692a40ee4b9bcc5f7ee58edeffb211138e02641c3fdfd55f77843430cb34cbc",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Cell_Phones_and_Accessories",
+      "kind": "review",
+      "filename": "Cell_Phones_and_Accessories.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Cell_Phones_and_Accessories.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Cell_Phones_and_Accessories.jsonl",
+      "expected_bytes": 9342568048,
+      "expected_sha256": "bda42ca8d28a1e57db970c78703b7aaac9c9beb6595e1be00364a0a55a682cd5",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Clothing_Shoes_and_Jewelry",
+      "kind": "review",
+      "filename": "Clothing_Shoes_and_Jewelry.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Clothing_Shoes_and_Jewelry.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Clothing_Shoes_and_Jewelry.jsonl",
+      "expected_bytes": 27810080533,
+      "expected_sha256": "150eb2a9e88f61cd5a89c5337cde437dc71308c47f22899a72d9e1dad60b7356",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Digital_Music",
+      "kind": "review",
+      "filename": "Digital_Music.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Digital_Music.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Digital_Music.jsonl",
+      "expected_bytes": 78823304,
+      "expected_sha256": "9ac137137e55e34fce290670fdf44acee5afa2ffae541f4f3b366a835930a7c3",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Electronics",
+      "kind": "review",
+      "filename": "Electronics.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Electronics.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Electronics.jsonl",
+      "expected_bytes": 22616233652,
+      "expected_sha256": "bf11cf9c94c23ead7d3ffb174d18231fad8fcd76e72ad167f538a5599a38de8e",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Gift_Cards",
+      "kind": "review",
+      "filename": "Gift_Cards.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Gift_Cards.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Gift_Cards.jsonl",
+      "expected_bytes": 50231035,
+      "expected_sha256": "b7ceead0dd6378eebfc6f4736402f85cc08e8dcb328f813c95ca68fc62d9544e",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Grocery_and_Gourmet_Food",
+      "kind": "review",
+      "filename": "Grocery_and_Gourmet_Food.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Grocery_and_Gourmet_Food.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Grocery_and_Gourmet_Food.jsonl",
+      "expected_bytes": 5973991903,
+      "expected_sha256": "bd68ea63cd101de7a0f8ae53896a0ce6b4d1d61fdef63cc02fad303e5f1244c6",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Handmade_Products",
+      "kind": "review",
+      "filename": "Handmade_Products.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Handmade_Products.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Handmade_Products.jsonl",
+      "expected_bytes": 289025980,
+      "expected_sha256": "7576d7743e83806d155e506a6bce13c25d9979ab13522e9a1cf2dc593144e65c",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Health_and_Household",
+      "kind": "review",
+      "filename": "Health_and_Household.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Health_and_Household.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Health_and_Household.jsonl",
+      "expected_bytes": 11395356745,
+      "expected_sha256": "e8256271e6d566745656cd946e200a43ad08ff5e046daacfc54535bfd95be4b4",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Health_and_Personal_Care",
+      "kind": "review",
+      "filename": "Health_and_Personal_Care.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "expected_bytes": 226990293,
+      "expected_sha256": "b532849dcf8e42910ce688ad423b3c1622ce860e7bf88a3641358bb89f345d02",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Home_and_Kitchen",
+      "kind": "review",
+      "filename": "Home_and_Kitchen.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Home_and_Kitchen.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Home_and_Kitchen.jsonl",
+      "expected_bytes": 31408889188,
+      "expected_sha256": "88f2ed8cda172b18201a9d8577ab461255b9ecec99581c1ee05c5e1b4105262b",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Industrial_and_Scientific",
+      "kind": "review",
+      "filename": "Industrial_and_Scientific.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Industrial_and_Scientific.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Industrial_and_Scientific.jsonl",
+      "expected_bytes": 2347015351,
+      "expected_sha256": "361f68c9535f038fab119099e79207099bee60b2cd7a98246c36b3b12c7aa678",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Kindle_Store",
+      "kind": "review",
+      "filename": "Kindle_Store.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Kindle_Store.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Kindle_Store.jsonl",
+      "expected_bytes": 15800555546,
+      "expected_sha256": "82024e17fdd988f47d8b5ae679643965255ae5164f9f494d6ba28ab9cc0efa76",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Magazine_Subscriptions",
+      "kind": "review",
+      "filename": "Magazine_Subscriptions.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Magazine_Subscriptions.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Magazine_Subscriptions.jsonl",
+      "expected_bytes": 33297013,
+      "expected_sha256": "bf36b04bbfb41f43c49b4adbdc13969014311ffb2344f706d13c35cdea5662da",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Movies_and_TV",
+      "kind": "review",
+      "filename": "Movies_and_TV.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Movies_and_TV.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Movies_and_TV.jsonl",
+      "expected_bytes": 8391445499,
+      "expected_sha256": "4eb7428d5f48baae5a7f1132ef556e6e98181b122085ac24b34b25e033c3130a",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Musical_Instruments",
+      "kind": "review",
+      "filename": "Musical_Instruments.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Musical_Instruments.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Musical_Instruments.jsonl",
+      "expected_bytes": 1557845107,
+      "expected_sha256": "63aee24d5b9eaf0069cf638703e2d62eb80fde5d2c00ca3d29881d645f6214b3",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Office_Products",
+      "kind": "review",
+      "filename": "Office_Products.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Office_Products.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Office_Products.jsonl",
+      "expected_bytes": 5776792834,
+      "expected_sha256": "82cc49670098220a314d398ceff6434599b54c27af5fa00ab9c0b4af9d9d9011",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Patio_Lawn_and_Garden",
+      "kind": "review",
+      "filename": "Patio_Lawn_and_Garden.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Patio_Lawn_and_Garden.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Patio_Lawn_and_Garden.jsonl",
+      "expected_bytes": 7748207348,
+      "expected_sha256": "2923136d4013b1f728081ab42a488b8328164deb9b6a8e2efae8cf48ff7fe345",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Pet_Supplies",
+      "kind": "review",
+      "filename": "Pet_Supplies.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Pet_Supplies.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Pet_Supplies.jsonl",
+      "expected_bytes": 8350775233,
+      "expected_sha256": "ad9e71383eb02674a7514181bb3eb57eec36695ea2cd28143b70df5d1da72ee3",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Software",
+      "kind": "review",
+      "filename": "Software.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Software.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Software.jsonl",
+      "expected_bytes": 1869151448,
+      "expected_sha256": "dc119f99c466a39a09e2513c9e48eb5821fb42b1459f3026bcf71b08e6770741",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Sports_and_Outdoors",
+      "kind": "review",
+      "filename": "Sports_and_Outdoors.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Sports_and_Outdoors.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Sports_and_Outdoors.jsonl",
+      "expected_bytes": 9256856041,
+      "expected_sha256": "47eaab08457fd7d270613f193506c479492b696a808ae5639a949b27026a4559",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Subscription_Boxes",
+      "kind": "review",
+      "filename": "Subscription_Boxes.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Subscription_Boxes.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Subscription_Boxes.jsonl",
+      "expected_bytes": 8953020,
+      "expected_sha256": "52e08112faa2b8769b35d364cbd3b8ac674ddd56621b171e7531a5a2071f460f",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Tools_and_Home_Improvement",
+      "kind": "review",
+      "filename": "Tools_and_Home_Improvement.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Tools_and_Home_Improvement.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Tools_and_Home_Improvement.jsonl",
+      "expected_bytes": 12779111772,
+      "expected_sha256": "7cfcd11fef2d6346d88eec96ca48e28225e4795b4e93e6a265114c22755a348b",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Toys_and_Games",
+      "kind": "review",
+      "filename": "Toys_and_Games.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Toys_and_Games.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Toys_and_Games.jsonl",
+      "expected_bytes": 7316094780,
+      "expected_sha256": "2e6157468ea97963098fe6b14749eda8d16a4443e718dcf6cbd0726c781fd938",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Unknown",
+      "kind": "review",
+      "filename": "Unknown.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Unknown.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Unknown.jsonl",
+      "expected_bytes": 29933791334,
+      "expected_sha256": "c1f58c580a747250877369b603e8959985b11ea079eddc88f66d1144e08d917b",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Video_Games",
+      "kind": "review",
+      "filename": "Video_Games.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Video_Games.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/review_categories/Video_Games.jsonl",
+      "expected_bytes": 2682948518,
+      "expected_sha256": "7bde9e0a039bdb321e993bfe78a6c7d438fb1504b1ad152c0cb6a33a8b7cb26a",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    }
+  ],
+  "metadata_entries": [
+    {
+      "category": "All_Beauty",
+      "kind": "metadata",
+      "filename": "meta_All_Beauty.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_All_Beauty.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_All_Beauty.jsonl",
+      "expected_bytes": 212990142,
+      "expected_sha256": "1cfbdf6d2ccf9c3ac52a4508b15f31f8f340508a245b65c3e3b5f461e06e97ef",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Amazon_Fashion",
+      "kind": "metadata",
+      "filename": "meta_Amazon_Fashion.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Amazon_Fashion.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Amazon_Fashion.jsonl",
+      "expected_bytes": 1422365805,
+      "expected_sha256": "629dde620a4001934a8af705f6e5514a1b2d349720c26876ee803b90051a62df",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Appliances",
+      "kind": "metadata",
+      "filename": "meta_Appliances.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Appliances.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Appliances.jsonl",
+      "expected_bytes": 285298475,
+      "expected_sha256": "b25ae892af7bc452c4a54b7e4fee52f4c3e9adf058768ca3cb07ecb8d328b41e",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Arts_Crafts_and_Sewing",
+      "kind": "metadata",
+      "filename": "meta_Arts_Crafts_and_Sewing.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Arts_Crafts_and_Sewing.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Arts_Crafts_and_Sewing.jsonl",
+      "expected_bytes": 2170215242,
+      "expected_sha256": "b3dd463e900a76599494927a7e991a62660e4d5c47c3f6c4797e9dae9a65837b",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Automotive",
+      "kind": "metadata",
+      "filename": "meta_Automotive.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Automotive.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Automotive.jsonl",
+      "expected_bytes": 5345616548,
+      "expected_sha256": "8399c5ab84b2a5239e105974a33fb5d1d6d5e1e643291713008c096240ef6941",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Baby_Products",
+      "kind": "metadata",
+      "filename": "meta_Baby_Products.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Baby_Products.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Baby_Products.jsonl",
+      "expected_bytes": 691003271,
+      "expected_sha256": "40250b693fc748cc0f24a5a2e762faa71e69aec4a9b934f625fd609f7cda6d7e",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Beauty_and_Personal_Care",
+      "kind": "metadata",
+      "filename": "meta_Beauty_and_Personal_Care.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Beauty_and_Personal_Care.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Beauty_and_Personal_Care.jsonl",
+      "expected_bytes": 2835194976,
+      "expected_sha256": "c8a69eba6579f1a3a2b6d6d564846f3c59839d0c859ff180a63a97a245c3bec2",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Books",
+      "kind": "metadata",
+      "filename": "meta_Books.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Books.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Books.jsonl",
+      "expected_bytes": 14697581022,
+      "expected_sha256": "3b008960580e390874b6723d438a3df3558bc98b9547ed37c90dc1659109cec7",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "CDs_and_Vinyl",
+      "kind": "metadata",
+      "filename": "meta_CDs_and_Vinyl.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_CDs_and_Vinyl.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_CDs_and_Vinyl.jsonl",
+      "expected_bytes": 948861684,
+      "expected_sha256": "c52275a5bce63bf293f987bff5ff1f2b268982797545f3df2b7662ab638e8aec",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Cell_Phones_and_Accessories",
+      "kind": "metadata",
+      "filename": "meta_Cell_Phones_and_Accessories.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Cell_Phones_and_Accessories.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Cell_Phones_and_Accessories.jsonl",
+      "expected_bytes": 4015159840,
+      "expected_sha256": "f8f411a2e3a90560de4b18a0c2c885a4ba410bb26f965a8e7290080898d22688",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Clothing_Shoes_and_Jewelry",
+      "kind": "metadata",
+      "filename": "meta_Clothing_Shoes_and_Jewelry.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Clothing_Shoes_and_Jewelry.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Clothing_Shoes_and_Jewelry.jsonl",
+      "expected_bytes": 17960532903,
+      "expected_sha256": "e5ff908573938ee114e4f4dfcfc46799b0ead24a57a8c075fbca2e6e28d78382",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Digital_Music",
+      "kind": "metadata",
+      "filename": "meta_Digital_Music.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Digital_Music.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Digital_Music.jsonl",
+      "expected_bytes": 67097002,
+      "expected_sha256": "7f5387e99b70631d919c87005269c555e8886ae9a60c4c59a9b6ed7881acbbec",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Electronics",
+      "kind": "metadata",
+      "filename": "meta_Electronics.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Electronics.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Electronics.jsonl",
+      "expected_bytes": 5246144134,
+      "expected_sha256": "5eb4dabd539586c49654297319ef178b62a2fe8e43108376feda125f04455d93",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Gift_Cards",
+      "kind": "metadata",
+      "filename": "meta_Gift_Cards.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Gift_Cards.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Gift_Cards.jsonl",
+      "expected_bytes": 2038189,
+      "expected_sha256": "7909903c85f0690b4ff653981724af1ea6473e7b21a7e32c7adae5026240808f",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Grocery_and_Gourmet_Food",
+      "kind": "metadata",
+      "filename": "meta_Grocery_and_Gourmet_Food.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Grocery_and_Gourmet_Food.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Grocery_and_Gourmet_Food.jsonl",
+      "expected_bytes": 1382105675,
+      "expected_sha256": "ed9b24ea707f7010b5cb321462a8e896ad1fcd59620fbc55f05084c3da59842e",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Handmade_Products",
+      "kind": "metadata",
+      "filename": "meta_Handmade_Products.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Handmade_Products.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Handmade_Products.jsonl",
+      "expected_bytes": 399261431,
+      "expected_sha256": "c47e8f247dab7ec1d2fac93050e79a40ad5d31c3fe073838af29694fc1690530",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Health_and_Household",
+      "kind": "metadata",
+      "filename": "meta_Health_and_Household.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Health_and_Household.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Health_and_Household.jsonl",
+      "expected_bytes": 2468505069,
+      "expected_sha256": "1a26906c721929a04e887eb7aac560e58e0c4f0a65ec5b24a047a560a43f0bc1",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Health_and_Personal_Care",
+      "kind": "metadata",
+      "filename": "meta_Health_and_Personal_Care.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Health_and_Personal_Care.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Health_and_Personal_Care.jsonl",
+      "expected_bytes": 118005874,
+      "expected_sha256": "eb7f147cac85ce22e6d9b63e8f8504e85032c8a666e8634a1f101a9533983c0a",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Home_and_Kitchen",
+      "kind": "metadata",
+      "filename": "meta_Home_and_Kitchen.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Home_and_Kitchen.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Home_and_Kitchen.jsonl",
+      "expected_bytes": 11788767944,
+      "expected_sha256": "691353084748d985180deb13dc8de59afe4969933ad3692ea06b80460510aa56",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Industrial_and_Scientific",
+      "kind": "metadata",
+      "filename": "meta_Industrial_and_Scientific.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Industrial_and_Scientific.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Industrial_and_Scientific.jsonl",
+      "expected_bytes": 1130006344,
+      "expected_sha256": "114fcde36f6205bde5d0ebed24613a35e475aa06b285011ed1e892dc26da3942",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Kindle_Store",
+      "kind": "metadata",
+      "filename": "meta_Kindle_Store.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Kindle_Store.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Kindle_Store.jsonl",
+      "expected_bytes": 6865237738,
+      "expected_sha256": "acdaba5f1fb83805a2bf032ba3c7ddb83c695b03d6c41b785a81070d3b66a145",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Magazine_Subscriptions",
+      "kind": "metadata",
+      "filename": "meta_Magazine_Subscriptions.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Magazine_Subscriptions.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Magazine_Subscriptions.jsonl",
+      "expected_bytes": 4096541,
+      "expected_sha256": "b325bc690a4b705338dfc3dd45ace5ec643dc6212cbb0c614a9b05f236ec12ab",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Movies_and_TV",
+      "kind": "metadata",
+      "filename": "meta_Movies_and_TV.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Movies_and_TV.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Movies_and_TV.jsonl",
+      "expected_bytes": 1285744674,
+      "expected_sha256": "beb82feef266bfa6d2e279903fd823a8b3b9c065059e1048226d0b74dc16b47d",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Musical_Instruments",
+      "kind": "metadata",
+      "filename": "meta_Musical_Instruments.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Musical_Instruments.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Musical_Instruments.jsonl",
+      "expected_bytes": 631877970,
+      "expected_sha256": "96f40b5440918f07e3e08e84b7a6874a06a5e32a9988998ca9520cfd1b51a12c",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Office_Products",
+      "kind": "metadata",
+      "filename": "meta_Office_Products.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Office_Products.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Office_Products.jsonl",
+      "expected_bytes": 2146468843,
+      "expected_sha256": "d9709095587ee34b2d5e639ca69de2a6fc8ab1953c467b86715e409c5ad78314",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Patio_Lawn_and_Garden",
+      "kind": "metadata",
+      "filename": "meta_Patio_Lawn_and_Garden.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Patio_Lawn_and_Garden.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Patio_Lawn_and_Garden.jsonl",
+      "expected_bytes": 2714096874,
+      "expected_sha256": "3a48d1328e6d1db8728764f124f64d35b7001a73d46beeaea5d390332a5afc8e",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Pet_Supplies",
+      "kind": "metadata",
+      "filename": "meta_Pet_Supplies.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Pet_Supplies.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Pet_Supplies.jsonl",
+      "expected_bytes": 1571293235,
+      "expected_sha256": "69dfa0e6b34e8c34f5704fbf05682eb3edacac95d9b8e1fbf3f74720cbf67e50",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Software",
+      "kind": "metadata",
+      "filename": "meta_Software.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Software.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Software.jsonl",
+      "expected_bytes": 256220771,
+      "expected_sha256": "7c52cce1bf3bff33f965fe117e3e8fac18a1839f88b215efa50b31a8230a5f58",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Sports_and_Outdoors",
+      "kind": "metadata",
+      "filename": "meta_Sports_and_Outdoors.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Sports_and_Outdoors.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Sports_and_Outdoors.jsonl",
+      "expected_bytes": 4132263769,
+      "expected_sha256": "321aba659220c48a8dcf2a4034f1eb965fae031941d81c9b7e47811caae85db9",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Subscription_Boxes",
+      "kind": "metadata",
+      "filename": "meta_Subscription_Boxes.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Subscription_Boxes.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Subscription_Boxes.jsonl",
+      "expected_bytes": 1399864,
+      "expected_sha256": "b29c7bb1e3ad1419c33142c76d39782a9b8ae2fcbe27641186b88a10e1f31575",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Tools_and_Home_Improvement",
+      "kind": "metadata",
+      "filename": "meta_Tools_and_Home_Improvement.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Tools_and_Home_Improvement.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Tools_and_Home_Improvement.jsonl",
+      "expected_bytes": 4850689793,
+      "expected_sha256": "7b0e1ab6275a055fd1337d94dca6029eb401c31e21496608192d6564c1f25b0b",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Toys_and_Games",
+      "kind": "metadata",
+      "filename": "meta_Toys_and_Games.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Toys_and_Games.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Toys_and_Games.jsonl",
+      "expected_bytes": 2637909430,
+      "expected_sha256": "caca4bc34518426d45e2924d1042923d9d3cd89eb69f4daeb0b3a9c87e278a9a",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Unknown",
+      "kind": "metadata",
+      "filename": "meta_Unknown.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Unknown.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Unknown.jsonl",
+      "expected_bytes": 674824926,
+      "expected_sha256": "be2ace4f62de51e041c838792d2fbe74a52487e8aca20f39fd729d1852e3a645",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    },
+    {
+      "category": "Video_Games",
+      "kind": "metadata",
+      "filename": "meta_Video_Games.jsonl",
+      "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Video_Games.jsonl",
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e/raw/meta_categories/meta_Video_Games.jsonl",
+      "expected_bytes": 437375785,
+      "expected_sha256": "3ad94dfaa8dfed23c5f420aa9ddec415d00f2b8ec9f2d796f487b4b2c4d256de",
+      "revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e"
+    }
+  ],
+  "expected_review_categories": [
+    "All_Beauty",
+    "Amazon_Fashion",
+    "Appliances",
+    "Arts_Crafts_and_Sewing",
+    "Automotive",
+    "Baby_Products",
+    "Beauty_and_Personal_Care",
+    "Books",
+    "CDs_and_Vinyl",
+    "Cell_Phones_and_Accessories",
+    "Clothing_Shoes_and_Jewelry",
+    "Digital_Music",
+    "Electronics",
+    "Gift_Cards",
+    "Grocery_and_Gourmet_Food",
+    "Handmade_Products",
+    "Health_and_Household",
+    "Health_and_Personal_Care",
+    "Home_and_Kitchen",
+    "Industrial_and_Scientific",
+    "Kindle_Store",
+    "Magazine_Subscriptions",
+    "Movies_and_TV",
+    "Musical_Instruments",
+    "Office_Products",
+    "Patio_Lawn_and_Garden",
+    "Pet_Supplies",
+    "Software",
+    "Sports_and_Outdoors",
+    "Subscription_Boxes",
+    "Tools_and_Home_Improvement",
+    "Toys_and_Games",
+    "Unknown",
+    "Video_Games"
+  ],
+  "review_bytes": 275402798613,
+  "metadata_bytes": 101396251783
+}
