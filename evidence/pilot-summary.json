@@ -1,0 +1,81 @@
+{
+  "kind": "retrospective_two_category_prototype_validation",
+  "validation_date_utc": "2026-10-27",
+  "data_revision": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e",
+  "category_files": [
+    {
+      "source_category": "All_Beauty",
+      "source_name": "All_Beauty.jsonl",
+      "source_bytes": 326611506,
+      "source_sha256": "36ca7c48440a8247b2dca0174d095238422b506a8a80c114dca722b7715f1c94",
+      "scanned_rows": 701528,
+      "source_identity_verified": true
+    },
+    {
+      "source_category": "Subscription_Boxes",
+      "source_name": "Subscription_Boxes.jsonl",
+      "source_bytes": 8953020,
+      "source_sha256": "52e08112faa2b8769b35d364cbd3b8ac674ddd56621b171e7531a5a2071f460f",
+      "scanned_rows": 16216,
+      "source_identity_verified": true
+    }
+  ],
+  "full_published_reviews_processed": false,
+  "scanned_reviews": 717744,
+  "exact_duplicate_reviews": 7474,
+  "identity_conflict_reviews": 4,
+  "accepted_reviews": 710266,
+  "weekly_parent_child_rows": 558072,
+  "main_window": {
+    "reference_start": "2021-10-11",
+    "current_start": "2022-01-03",
+    "current_end": "2022-03-28",
+    "future_end": "2022-04-25"
+  },
+  "minimum_support_per_period": {
+    "reviews": 30,
+    "observed_weeks": 4,
+    "shared_variant_review_share": 0.5
+  },
+  "candidate_product_families": 15754,
+  "supported_product_families": 12,
+  "max_decomposition_identity_error": 1.6653345369377348e-16,
+  "forecast_metrics": [
+    {
+      "method": "current_child_frozen_mix",
+      "eligible_parents": 12,
+      "observable_parents": 12,
+      "observed_future_reviews": 196,
+      "unknown_future_parents": 0,
+      "observable_fraction": 1.0,
+      "parent_weighted_log_loss": 1.1071001982522686,
+      "review_weighted_log_loss": 1.1138900845132926,
+      "parent_weighted_rps": 0.15693508639086448,
+      "review_weighted_rps": 0.16886558692990816
+    },
+    {
+      "method": "current_parent",
+      "eligible_parents": 12,
+      "observable_parents": 12,
+      "observed_future_reviews": 196,
+      "unknown_future_parents": 0,
+      "observable_fraction": 1.0,
+      "parent_weighted_log_loss": 1.0970667909473513,
+      "review_weighted_log_loss": 1.1069960871868454,
+      "parent_weighted_rps": 0.15565275202350684,
+      "review_weighted_rps": 0.1674816068719425
+    },
+    {
+      "method": "reference_parent",
+      "eligible_parents": 12,
+      "observable_parents": 12,
+      "observed_future_reviews": 196,
+      "unknown_future_parents": 0,
+      "observable_fraction": 1.0,
+      "parent_weighted_log_loss": 1.151365198981703,
+      "review_weighted_log_loss": 1.1862373285234327,
+      "parent_weighted_rps": 0.1848841517566928,
+      "review_weighted_rps": 0.19937060002030071
+    }
+  ]
+}
